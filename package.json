@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/y4aniv/recherche-entreprises/issues"
   },
-  "homepage": "https://github.com/y4aniv/recherche-entreprises#readme"
+  "homepage": "https://github.com/y4aniv/recherche-entreprises#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
