@@ -1,6 +1,6 @@
 {
   "name": "recherche-entreprises",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node.js library for the public enterprise search API (written in typescript)",
   "main": "dist/index.js",
   "soure": "src/index.ts",
