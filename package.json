@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Node.js library for the public enterprise search API (written in typescript)",
   "main": "dist/index.js",
+  "soure": "src/index.ts",
+  "types": "dist/index.d.ts",
   "scripts": {},
   "repository": {
     "type": "git",
