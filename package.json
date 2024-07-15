@@ -1,0 +1,32 @@
+{
+  "name": "recherche-entreprises",
+  "version": "1.0.0",
+  "description": "Node.js library for the public enterprise search API (written in typescript)",
+  "main": "dist/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y4aniv/recherche-entreprises.git"
+  },
+  "keywords": [
+    "api",
+    "gouv",
+    "siret",
+    "recherche",
+    "enterprise",
+    "entreprise",
+    "typescript"
+  ],
+  "author": {
+    "name": "Yaniv Douieb",
+    "url": "https://github.com/y4aniv"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/y4aniv/recherche-entreprises/issues"
+  },
+  "homepage": "https://github.com/y4aniv/recherche-entreprises#readme",
+  "engines": {
+    "node": ">=18.20.3"
+  }
+}
